@@ -5,7 +5,7 @@
                                                          <p align="center">
   <b>LLMs  |  OpenClaw  |  RL  |  Python  |  R  |  Scala  |  Spark</b><br>
   
-  Senior Data Scientist and applied AI researcher at Massachusetts General Hospital (under MGB Inc.) -> turning messy, multi-modal + across-sites healthcare &amp; multi-omics data into validated, model-ready assets, then building interpretable ML and LLM systems that domain experts can trust.
+  Senior Data Scientist and applied AI researcher at Massachusetts General Hospital (under MGB Inc.) -> turning messy, multi-modal, cross-sites healthcare &amp; multi-omics data into validated, model-ready assets, then building interpretable ML and LLM systems that domain experts can trust.
 </p>
 
 <p align="center">
