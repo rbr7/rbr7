@@ -113,10 +113,13 @@ Highlighted workflows: healthcare data-quality profiling · patient/provider/mem
 | Project | What it does | Focus |
 |---|---|---|
 | [**PB-Dataset-Recommender_Engine**](https://github.com/rbr7/PB-Dataset-Recommender_Engine) | Biomedical-NLP recommender that searches &amp; ranks datasets across NCBI, SRA &amp; EBI | Bio-NLP · search/ranking |
-| [**Human Protein Atlas — Kaggle 2021**](https://github.com/rbr7/Human_Protein_Atlas_challenge-kaggle-2021) | Weakly-supervised, multi-label classification of single-cell protein localization | weak supervision · multi-label DL |
+| [**Human Protein Atlas : Kaggle 2021**](https://github.com/rbr7/Human_Protein_Atlas_challenge-kaggle-2021) | Weakly-supervised, multi-label classification of single-cell protein localization | weak supervision · multi-label DL |
 | [**scRNASeq Workflow + Cell Predictions**](https://github.com/rbr7/scRNASeq-Workflow-and-Cell-predictions) | Single-cell RNA-seq analysis on the **Geneformer** transformer foundation model | transformers · embeddings |
 | [**scMultiOmics Integration Tool**](https://github.com/rbr7/scMultiOmics-IntegrationTool) | Reproducible pipeline integrating single-cell ATAC-seq + RNA-seq | multi-omics · pipeline engineering |
 | [**corral**](https://github.com/rbr7/corral) | Terminal dashboard that corrals tmux sessions &amp; Slurm jobs across SSH/compute nodes | software engineering · MLOps/HPC |
+| [**RxFM**](https://github.com/rbr7/) |  | Foundation model · MLOps/HPC |
+| [**CLIO**](https://github.com/rbr7/) |  | Clinical AI model · Clinical AI/HPC/Healthcare |
+| [**PRISM**](https://github.com/rbr7/) |  | HGT model · LLMs/HPC |
 
 
 ## Experience 💼
@@ -127,8 +130,8 @@ Highlighted workflows: healthcare data-quality profiling · patient/provider/mem
 - **Bristol Myers Squibb** : *Applied ML Intern (Applied Bioinformatics)* · on-site
 - **Georgia Tech : Computational Genomics Lab** -> *Graduate Research Assistant* · Atlanta, GA
 - **GATK Team, Broad** : *Open-Source Developer* · remote
-- **Quadrical.ai** — *Software Developer &amp; Data Scientist* · Gurugram, India
-- **Elucidata** — *Data Science &amp; Analytics* · New Delhi, India
+- **Quadrical.ai** : *Software Developer &amp; Data Scientist* · Gurugram, India
+- **Elucidata** : *Data Science &amp; Analytics* · New Delhi, India
 
 ---
 
@@ -186,7 +189,7 @@ Highlighted workflows: healthcare data-quality profiling · patient/provider/mem
 
 ## Selected Publications 📄
 
-A few representative papers — full list on [Google Scholar](https://scholar.google.com/citations?user=6RGIV64AAAAJ&hl=en).
+A few representative papers with full list on [Google Scholar](https://scholar.google.com/citations?user=6RGIV64AAAAJ&hl=en).
 
 ---
 
