@@ -26,7 +26,7 @@ I care about healthcare ML that works **outside notebooks**: robust data pipelin
 🔭 **Currently focused on:** healthcare data-quality systems, entity resolution, clinical NLP, explainable predictive modeling, multimodal foundation models, and scalable ML pipelines.
 
 ---
-## Current Projects &amp; Frontier-AI Work 🚀
+## Current Projects &amp; healthcare AI Work 🚀
 
 - **AI for Alzheimer's : OpenAI Foundation initiative.** Data Science Lead (MGH) within the [OpenAI Foundation's *AI for Alzheimer's*](https://openaifoundation.org/news/ai-for-alzheimers) initiative, a $100M+ program across six institutions for supporting the Mass General Brigham collaboration with the Institute for Protein Design (University of Washington). I build scalable, production-grade ML pipelines and active-learning loops that reason jointly across patient phenotypes, molecular biomarkers, and high-throughput screens to surface mechanistically interpretable, causally grounded drug targets, not black-box predictions.
 
